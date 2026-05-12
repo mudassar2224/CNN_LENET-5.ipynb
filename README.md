@@ -118,7 +118,7 @@ Upload a clothing image and the model predicts the clothing category with confid
 * Add more clothing categories
 * Deploy mobile version using Flutter
 * Add Grad-CAM visualization
-* Convert model to TensorFlow Lite
+
 
 ---
 
